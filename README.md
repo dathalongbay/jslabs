@@ -16,7 +16,11 @@ javascript projects for beginners
 https://skillcrush.com/blog/projects-you-can-do-with-javascript/   
 https://jsbeginners.com/javascript-projects-for-beginners/   
 https://thesmartcoder.dev/9-awesome-projects-you-can-build-with-vanilla-javascript/   
-https://mikkegoes.com/javascript-projects-for-beginners/     
+https://mikkegoes.com/javascript-projects-for-beginners/  
+https://www.freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects/     
+https://dev.to/gilbertkitetu/javascript-projects-for-beginners-17lk     
+https://dev.to/tanoysr/best-40-javascript-projects-for-beginners-with-source-code-3alf     
+
 
 
 
