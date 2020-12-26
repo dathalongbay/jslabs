@@ -12,4 +12,11 @@ tool border radius
 tool gradient     
 tool chuyển tiếng việt có dấu thành không dấu   
 
+javascript projects for beginners    
+https://skillcrush.com/blog/projects-you-can-do-with-javascript/   
+https://jsbeginners.com/javascript-projects-for-beginners/   
+https://thesmartcoder.dev/9-awesome-projects-you-can-build-with-vanilla-javascript/   
+https://mikkegoes.com/javascript-projects-for-beginners/     
+
+
 
